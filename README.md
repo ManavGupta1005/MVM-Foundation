@@ -1,5 +1,5 @@
 # Project Title
-MVM Foundation
+We Care Foundation
 
 ## Project Description
 Web Application for an NGO.
