@@ -2,7 +2,7 @@
 MVM Foundation
 
 ## Project Description
-Web Application for a charity foundation.
+Web Application for an NGO.
 
 ## Built With
 1. HTML
