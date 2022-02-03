@@ -2,7 +2,7 @@
 We Care Foundation
 
 ## Project Description
-Web Application for an NGO.
+A fully functioning web application for an NGO to work with. The project uses the concepts of HTML, CSS and Bootstrap to make a website for an NGO.
 
 ## Built With
 1. HTML
